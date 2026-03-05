@@ -1,4 +1,4 @@
-## 찰칵!(Cheese!)
+# 찰칵!(Cheese!)
 
 ### 플레이 영상
 https://www.youtube.com/watch?v=eRey8EpW7TQ 
